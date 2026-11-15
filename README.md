@@ -28,3 +28,5 @@ To create a digital portfolio that reflects the craftsmanship, authenticity, and
 
 This project explores the intersection of web design, visual storytelling, and creative brand presentation.
 
+<img width="200" height="700" alt="Dellymb Artist Portfolio Project" src="https://github.com/user-attachments/assets/ed147511-86c9-4134-be84-06f71cc8eaab" />
+
